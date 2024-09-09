@@ -1,0 +1,36 @@
+.main-box{
+    height:100px;
+    width:100%;
+    margin:10px;
+    border-radius:10px
+}
+#box-one{
+    background-color:#06d9f0;
+}
+#box-two{
+    background-color:#ce34ab;
+}
+#box-three{
+    background-color:#589323;
+}
+#box-four{
+    background-color:#d3e32b;
+}
+#box-five{
+    background-color:#012b2d;
+}
+#box-six{
+    background-color:#12ac30;
+}
+#box-seven{
+    background-color:#fea301;
+}
+#box-eight{
+    background-color:#d2035a;
+}
+#box-nine{
+    background-color:#d40afb;
+}
+#box-ten{
+    background-color:#8ff3c1;
+}
